@@ -1,0 +1,18 @@
+HDUKE REV 18K
+
+Criado por Luis Claudio Silva Garcia
+
+Hduke é um port de duke nukem 3d criado por um Brasileiro em 2009 onde o foco é o multiplayer
+foi o primeiro port do mundo de duke nukem a implementar fraglimit , team-games , anti cheat e
+outras funcões para a melhora do multiplayer.
+
+Essa versão inclui um instalador onde instala o kali para ser usado em partidas multiplayer.
+Ele vai criar 3 icones em seu desktop 
+
+Hduke - executavel
+kali - utilitario usado para rodar jogo
+e um programa para fixar bug de cor que ocorre em windows 7
+
+Duke usa uma arquitetura peer to peer ou seja você se conecta diretamente com o outro jogador sem precisar 
+de um servidor como nos jogos atuais. Então você nunca vai ver servidores online de duke pois não existem. 
+

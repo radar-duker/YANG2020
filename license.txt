@@ -1,0 +1,9 @@
+The YANG license
+----------------
+
+You are allowed to distribute YANG (i.e. Yet Another Netplay Guider) as-is.
+You may not make modifications of the YANG executable. This includes
+(but not limited to) disengineering, disassembling and decompiling.
+
+IN ADDITION, YANG IS PROVIDED WITHOUT ANY KIND OF WARRANTY,
+WHETHER EXPRESSED OR IMPLIED.

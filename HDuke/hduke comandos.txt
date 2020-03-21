@@ -1,0 +1,21 @@
+                             HDUKE COMMAND LIST
+ -team         TeamDukematch mode game
+ -teamforts    TeamDukematch mode game with special respawn
+ -nochange     Disable change Team in game
+ -mousefree    Mouse Cursor Free
+ -keyboardonly Disable mouse and enable alt strafe (Keyboard only)
+ /y##          Fraglimit: Limit the frag in the game
+ -showitems    Show items all time in any screen mode
+ -gametime     Chronometer the game time
+ -forcerespawn Force the player respawn
+ -nopistol     Disable pistol weapon
+ -dnweapons    *Multiplayer Dnweapons
+ -noexpander   Disable expander in dnweapons mode
+ -ms           Master Slave Mode
+ -p2p          Force peer to Peer Mode ( old netcode )
+ -meltdown     Enable file writing to use with meltdown
+ -newfragbar   Enable special fragbar
+ -showname     Enable show nickname when you aim enemy
+ -disablek     Disable Coop View in all modes
+ -spectator         Spectator mode
+ -disableshowname     Disable show nickname when you aim enemy
